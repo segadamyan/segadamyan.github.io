@@ -1,0 +1,89 @@
+body {
+	background-image: url("images/fon.jpg");
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.button{
+	width: 200px;
+	height: 50px;
+	margin-top: 50px;
+	margin-left: 50px;
+	border-radius: 7px;
+	border: 1px solid #1158a6;
+	background-color: #1158a6;
+	color: white;
+	font-size: 25px;
+}
+.button:hover{
+	color: #1158a6;
+	background-color: white;
+}
+
+.main{
+	width: 70%;
+	border: 2px solid white;
+	border-radius: 15px;
+	background-image: url("images/fon1.jpg");
+	margin: auto;
+}
+.header{
+	height: 200px;
+	border-bottom:2px solid white;
+	box-sizing: border-box;
+}
+.header div{
+	position: absolute;
+	left: 400px;
+	color: #1158a6;
+	font-size: 35px;
+}
+.text{
+	margin-left: 150px;
+}
+#text{
+	font-size: 20px;
+	margin-left: 100px;
+}
+.logo {
+	margin-top: 50px;
+	margin-left: 50px;
+	float: left;
+}
+.content{
+	padding: 20px;
+	overflow: auto;
+}
+.footer{
+	height: 75px;
+	border-top: 2px solid white;
+	color: #1158a6;
+}
+.info{
+	margin: 25px;
+	font-size: 20px;
+	display: inline-block;
+}
+#name{
+	float:right;
+}
+.ardyunq{
+	background-color: white;
+	position: relative;
+	left: 275px;
+	border-radius: 10px;
+	height: 300px;
+	padding: 20px;
+	border: 2px solid white;
+	width: 300px;
+	color: #1158a6;
+}
+.big{
+	text-align: center;
+	font-size: 35px;
+	color: #1158a6;
+}
+#krit{
+	text-decoration: none;
+	margin-left: 60px;
+	font-size: 20px;
+}
